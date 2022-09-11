@@ -14,7 +14,7 @@ export default function AboutUs() {
       <article className="gridAbouUs">
         <div className="textDescipcion">
           <p>👋Greetings, let me tell you a little bit about me, my name is <strong>Estiven</strong>, I am a guy who likes 👨‍💻 <strong>technology</strong> a lot.</p>
-          <p>My favorite hobby is 🕹️ video games, my favorite video games are "The Last Of Us", "Minecracft" and "Horizon".</p>
+          <p>My favorite hobby is 🕹️ video games, my favorite video games are "The Last Of Us", "Minecraft" and "Horizon".</p>
           <h3>🗨️ more about me:</h3>
           <ul className="boxAcercaDeMi">
             <li>Country: <span>🗺️ Dominican Republic.</span></li>

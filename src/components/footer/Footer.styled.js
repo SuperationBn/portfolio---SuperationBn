@@ -27,7 +27,7 @@ export const SectionFooterStyled = styled.footer`
       display: flex;
       justify-content: center;
       gap: 4rem;
-      margin-bottom: 7rem;
+      margin-bottom: 4rem;
 
       @media (max-width: 285px) {
         align-items: center;
@@ -46,6 +46,18 @@ export const SectionFooterStyled = styled.footer`
           /* color: #6ed3ff; */
           color: rgb(255, 255, 255, 0.8);
         }
+      }
+    }
+
+    .textCorreo {
+      width: 100%;
+      text-align: center;
+      margin-bottom: 6rem;
+
+
+      span {
+        font-size: 1.6rem;
+        color: rgb(255, 255, 255, 0.55);
       }
     }
 

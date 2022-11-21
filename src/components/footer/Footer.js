@@ -25,6 +25,9 @@ export default function Footer() {
             <i className="fa-brands fa-youtube"></i>
           </a>
         </div>
+        <div className="textCorreo">
+          <span>superationbnmailbox@gmail.com</span>
+        </div>
         <div className="textFooterDown">
           <span>Copyright © 2022 - 2023. All Rights Reserved / SuperationBn</span>
         </div>

@@ -45,6 +45,10 @@ export const SectionPorjectsStyled = styled.section`
       text-transform: uppercase;
       color: rgb(255, 255, 255, 0.8);
       z-index: 100;
+
+      @media (max-width:390px) {
+        font-size:6rem;
+      }
     }
   }
 

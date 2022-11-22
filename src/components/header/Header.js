@@ -8,7 +8,7 @@ export default function Header() {
     <HeaderSectionStyled>
       <article className='gridHeader'>
         <div className="textContainer">
-          <h1>Hi, my name is <span className='textAnimation'>Estiven</span> I am a <span className='textAnimation'>Font End</span> <span className="developer">developer.</span></h1>
+          <h1>Hi, my name is <span className='textAnimation'>Estiven</span> I am a <span className='textAnimation'>Frontend</span> <span className="developer">developer.</span></h1>
         </div>
         <figure className='img'>
           {/* <StaticImage loading='lazy' src='../../images/SuperationEstivenImg.png' layout='constrained' alt='SuperationBn, Estiven, Font End' /> */}

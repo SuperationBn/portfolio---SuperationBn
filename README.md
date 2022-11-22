@@ -4,4 +4,4 @@
 </h1>
 
 
-![SuperationBn - Frontend developer](https://user-images.githubusercontent.com/107477446/189497619-4ef6bd03-3051-4754-b358-447b56fda66b.png)
+![SuperationBn - Frontend developer](https://user-images.githubusercontent.com/107477446/203376434-30142a15-2508-49dc-8a34-137bec089868.png)

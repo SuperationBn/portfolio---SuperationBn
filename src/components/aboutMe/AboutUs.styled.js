@@ -60,7 +60,7 @@ export const SectionAnoutUsStyled = styled.section`
     grid-template-columns: 1fr 1fr;
     align-items: center;
 
-    @media (max-width: 823px) {
+    @media (max-width: 923px) {
       grid-template-columns: 1fr;
       gap: 8rem;
     }
@@ -70,7 +70,7 @@ export const SectionAnoutUsStyled = styled.section`
 
       
       p {
-        font-size: 2.7rem;
+        font-size: 2.2rem;
         letter-spacing: 1px;
         color: rgb(255, 255, 255, 0.7);
         
@@ -91,10 +91,10 @@ export const SectionAnoutUsStyled = styled.section`
         width: 100%;
         
         li {
-          font-size: 2.2rem;
+          font-size: 1.7rem;
           color: rgb(255, 255, 255, 0.7);
           font-weight: 600;
-          letter-spacing: 2px;
+          letter-spacing: 1.1px;
           list-style: circle;
           list-style-image: -moz-linear-gradient(#00b3ff, #3499ff);
           list-style-position: inside;
@@ -104,8 +104,8 @@ export const SectionAnoutUsStyled = styled.section`
           }
           
           span {
-            font-size: 2rem;
-            letter-spacing: 2px;
+            font-size: 1.7rem;
+            letter-spacing: 1px;
             color: rgb(255, 255, 255, 0.7);
             font-weight: 400;
           }
